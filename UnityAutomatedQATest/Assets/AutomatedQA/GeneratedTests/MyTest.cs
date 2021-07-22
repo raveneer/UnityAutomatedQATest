@@ -4,14 +4,12 @@ using UnityEngine.TestTools;
 
 namespace GeneratedRecordedTests
 {
-    public class AutomatedQATestWrapper : FirstTest_Tests
+    public class MyTest : SimpleButtonDown_Tests
     {
         [UnityTest]
-
-        public IEnumerator CanPlayToEnd_ContainTest()
+        public IEnumerator MyTestCase()
         {
             yield return CanPlayToEnd();
-
             Assert.Fail();
         }
     }

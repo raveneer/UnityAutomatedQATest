@@ -14,9 +14,9 @@
         {
             "pointerId": -1,
             "eventType": 1,
-            "timeDelta": 0.7084679007530212,
+            "timeDelta": 1.9150627851486207,
             "position": {
-                "x": 0.48468467593193056,
+                "x": 0.48738738894462588,
                 "y": 0.4991181790828705
             },
             "positional": false,
@@ -30,16 +30,16 @@
             "objectTag": "Untagged",
             "objectHierarchy": "Canvas",
             "objectOffset": {
-                "x": -0.10625000298023224,
+                "x": -0.08749999850988388,
                 "y": -0.01666666753590107
             }
         },
         {
             "pointerId": -1,
             "eventType": 2,
-            "timeDelta": 0.09677284955978394,
+            "timeDelta": 0.15840518474578858,
             "position": {
-                "x": 0.48468467593193056,
+                "x": 0.48738738894462588,
                 "y": 0.4991181790828705
             },
             "positional": false,
@@ -53,17 +53,17 @@
             "objectTag": "Untagged",
             "objectHierarchy": "Canvas",
             "objectOffset": {
-                "x": -0.10625000298023224,
+                "x": -0.08749999850988388,
                 "y": -0.01666666753590107
             }
         },
         {
             "pointerId": -1,
             "eventType": 1,
-            "timeDelta": 1.0524290800094605,
+            "timeDelta": 0.46221375465393069,
             "position": {
-                "x": 0.4720720648765564,
-                "y": 0.49735450744628909
+                "x": 0.5639639496803284,
+                "y": 0.5061728358268738
             },
             "positional": false,
             "scene": "SampleScene",
@@ -76,17 +76,17 @@
             "objectTag": "Untagged",
             "objectHierarchy": "Canvas",
             "objectOffset": {
-                "x": -0.19374999403953553,
-                "y": -0.05000000074505806
+                "x": 0.4437499940395355,
+                "y": 0.11666666716337204
             }
         },
         {
             "pointerId": -1,
             "eventType": 2,
-            "timeDelta": 0.11404252052307129,
+            "timeDelta": 0.1277446746826172,
             "position": {
-                "x": 0.4720720648765564,
-                "y": 0.49735450744628909
+                "x": 0.5603603720664978,
+                "y": 0.5097001791000366
             },
             "positional": false,
             "scene": "SampleScene",
@@ -99,17 +99,17 @@
             "objectTag": "Untagged",
             "objectHierarchy": "Canvas",
             "objectOffset": {
-                "x": -0.19374999403953553,
-                "y": -0.05000000074505806
+                "x": 0.41874998807907107,
+                "y": 0.18333333730697633
             }
         },
         {
             "pointerId": -1,
             "eventType": 1,
-            "timeDelta": 0.781996488571167,
+            "timeDelta": 0.8964934349060059,
             "position": {
-                "x": 0.4720720648765564,
-                "y": 0.49735450744628909
+                "x": 0.44144144654273989,
+                "y": 0.5097001791000366
             },
             "positional": false,
             "scene": "SampleScene",
@@ -122,17 +122,17 @@
             "objectTag": "Untagged",
             "objectHierarchy": "Canvas",
             "objectOffset": {
-                "x": -0.19374999403953553,
-                "y": -0.05000000074505806
+                "x": -0.40625,
+                "y": 0.18333333730697633
             }
         },
         {
             "pointerId": -1,
             "eventType": 2,
-            "timeDelta": 0.10342741012573242,
+            "timeDelta": 0.09232378005981446,
             "position": {
-                "x": 0.4720720648765564,
-                "y": 0.49735450744628909
+                "x": 0.44144144654273989,
+                "y": 0.5097001791000366
             },
             "positional": false,
             "scene": "SampleScene",
@@ -145,14 +145,14 @@
             "objectTag": "Untagged",
             "objectHierarchy": "Canvas",
             "objectOffset": {
-                "x": -0.19374999403953553,
-                "y": -0.05000000074505806
+                "x": -0.40625,
+                "y": 0.18333333730697633
             }
         },
         {
             "pointerId": 0,
             "eventType": 0,
-            "timeDelta": 2.284376621246338,
+            "timeDelta": 0.8630576133728027,
             "position": {
                 "x": 0.0,
                 "y": 0.0
